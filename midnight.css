@@ -41,7 +41,7 @@ li a :visted{
 
 .center{
 	padding-top: 100px;
-	padding-left: 80px;
+	padding-left: 700px;
 
 }
 
@@ -73,7 +73,7 @@ li a :visted{
 	word-wrap: break-word;
 }
 
-.text{
+.text {
 	font-family: verdana;
 	font-size: 20px;
 	color: white;
